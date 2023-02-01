@@ -498,6 +498,9 @@ transition: background-color var(--transition-duration-and-func);
   padding-bottom: 96px;
   background-color: var(--first-btn-color);
 }
+.customers-container {
+  width: 396px;
+}
 
 .customers-title {
   font-weight: 700;
@@ -543,8 +546,10 @@ height: 88px;
 
 
 /* -------------FOOTER------------------- */
+.footer-container {
+  width: 396px;
+}
 .footer {
-  
   padding-top: 96px;
   padding-bottom: 96px;
   background-color: var(--first-title-color);
